@@ -1,4 +1,4 @@
-# Analytical Skills in Real-World Scenarios
+# Case_Studies_based_on_Real-world_business_challenges
 
 ## Overview
 This readme highlights the application of analytical skills to real-world scenarios through case studies, focusing on optimizing customer acquisition and retention strategies for Zudio and evaluating business models for Perfora.
